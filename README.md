@@ -1,5 +1,5 @@
 # Automatic-Atnance
-Basic Mini Project
+Mini Project.
 Hii,Hello Everyone.This Project is used to reduce the miss calculation and time for taking atnance at college ,school or any other areas.
 Here,I am Using Python language.
 I created this on pycharm.
